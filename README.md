@@ -1,2 +1,2 @@
 # calculator
-a calculator made by my own for a simply try
+a calculator made by myself for a simply try
